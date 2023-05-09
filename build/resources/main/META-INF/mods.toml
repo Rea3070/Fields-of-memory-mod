@@ -6,9 +6,12 @@ license="Custom license"
 modId="fields_of_memory"
 version="1.0.0"
 displayName="Fields Of Memory"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
+credits="Robert Angel, Dr. Gannod"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/fields-of-memory-mod"
 authors="Robert Angel"
+description='''
+Adds music from Fields of Memory
+'''
 
 [[dependencies.fields_of_memory]]
     modId="minecraft"
