@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "The Fields",
+    "texture": "thefields",
+    "description": "Robert Angel - The Fields",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [
+      "Fields Of Memory"
+    ],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:thefieldssong"
+    },
+    "lengthInTicks": 4160,
+    "analogOutput": 15
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "thefieldssong": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "my_mod:thefields",
+        "stream": true
+      }
+    ]
+  }
+}
