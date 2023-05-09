@@ -1,0 +1,291 @@
+{
+  "mod_elements": [
+    {
+      "name": "TheFields",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_fields",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/TheFieldsItem.java",
+          "src/main/resources/assets/my_mod/models/item/the_fields.json"
+        ]
+      }
+    },
+    {
+      "name": "FiledsOfMemory",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fileds_of_memory",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Closer",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "closer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/CloserItem.java",
+          "src/main/resources/assets/my_mod/models/item/closer.json"
+        ]
+      }
+    },
+    {
+      "name": "TheyDontFear",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "they_dont_fear",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/my_mod/models/item/they_dont_fear.json",
+          "src/main/java/net/mcreator/mymod/item/TheyDontFearItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pslam",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pslam",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/my_mod/models/item/pslam.json",
+          "src/main/java/net/mcreator/mymod/item/PslamItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Personaldoom",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "personaldoom",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/PersonaldoomItem.java",
+          "src/main/resources/assets/my_mod/models/item/personaldoom.json"
+        ]
+      }
+    },
+    {
+      "name": "Findyou",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "findyou",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/FindyouItem.java",
+          "src/main/resources/assets/my_mod/models/item/findyou.json"
+        ]
+      }
+    },
+    {
+      "name": "Confess",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "confess",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/my_mod/models/item/confess.json",
+          "src/main/java/net/mcreator/mymod/item/ConfessItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Whatwevebecome",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whatwevebecome",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/my_mod/models/item/whatwevebecome.json",
+          "src/main/java/net/mcreator/mymod/item/WhatwevebecomeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Imscared",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "imscared",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/ImscaredItem.java",
+          "src/main/resources/assets/my_mod/models/item/imscared.json"
+        ]
+      }
+    },
+    {
+      "name": "Fieldsofmemeory",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fieldsofmemeory",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/my_mod/blockstates/fieldsofmemeory.json",
+          "src/main/resources/assets/my_mod/models/item/fieldsofmemeory.json",
+          "src/main/resources/assets/my_mod/models/block/fieldsofmemeory_noside_alt.json",
+          "src/main/resources/assets/my_mod/models/block/fieldsofmemeory_side.json",
+          "src/main/java/net/mcreator/mymod/block/FieldsofmemeoryBlock.java",
+          "src/main/resources/assets/my_mod/models/block/fieldsofmemeory_side_alt.json",
+          "src/main/resources/assets/my_mod/models/block/fieldsofmemeory_post.json",
+          "src/main/resources/assets/my_mod/models/block/fieldsofmemeory_noside.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "closer",
+      "files": [
+        "03robertangelcloser"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "thefields",
+      "files": [
+        "thefields"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "theydontfear",
+      "files": [
+        "06robertangeltheydontfear"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "paslm",
+      "files": [
+        "04robertangelpsalm"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "personaldoom",
+      "files": [
+        "09robertangelpersonaldoom"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "findyou",
+      "files": [
+        "07robertangelfindyou"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "imscared",
+      "files": [
+        "10robertangelimscared"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "confess",
+      "files": [
+        "11robertangelconfess"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "whatwevebecome",
+      "files": [
+        "12robertangelwhatwevebecome"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.my_mod.whatwevebecome": "Music Disc",
+      "subtitles.confess": "",
+      "subtitles.whatwevebecome": "",
+      "subtitles.closer": "",
+      "subtitles.personaldoom": "",
+      "subtitles.thefieldssong": "",
+      "item.my_mod.personaldoom": "Music Disc",
+      "subtitles.imscared": "",
+      "block.my_mod.fieldsofmemeory": "Fieldsofmemeory",
+      "item.my_mod.pslam": "Music Disc",
+      "item.my_mod.personaldoom.desc": "Robert Angel - Personal Doom",
+      "item.my_mod.imscared.desc": " Robert Angel - I\u0027m Scared",
+      "itemGroup.tabfileds_of_memory": "Fileds Of Memory",
+      "item.my_mod.the_fields": "Music Disc",
+      "item.my_mod.the_fields.desc": "Robert Angel - The Fields",
+      "item.my_mod.closer.desc": "Robert Angel - Closer",
+      "item.my_mod.they_dont_fear.desc": "Robert Angel - They Don\u0027t Fear",
+      "item.my_mod.imscared": "Music Disc",
+      "subtitles.theydontfear": "",
+      "item.my_mod.findyou": "Music Disc",
+      "subtitles.thefields": "",
+      "item.my_mod.closer": "Music Disc",
+      "subtitles.thefieldsofmemory": "",
+      "item.my_mod.pslam.desc": "Robert Angel - psalm",
+      "item.my_mod.they_dont_fear": "Music Disc",
+      "item.my_mod.confess": "Music Disc",
+      "subtitles.findyou": "",
+      "subtitles.paslm": "",
+      "item.my_mod.confess.desc": "Robert Angel - confess",
+      "item.my_mod.findyou.desc": "Robert Angel - Find You",
+      "item.my_mod.whatwevebecome.desc": "Robert Angel - What We\u0027ve Become"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fields_of_memory",
+    "modName": "Fields Of Memory",
+    "version": "1.0.0",
+    "author": "Robert Angel",
+    "license": "Custom license",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.fieldsofmemory",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

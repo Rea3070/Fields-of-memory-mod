@@ -1,16 +1,16 @@
 modLoader="javafml"
 loaderVersion="[43,)"
-license="Academic Free License v3.0"
+license="Custom license"
 
 [[mods]]
-modId="my_mod"
+modId="fields_of_memory"
 version="1.0.0"
-displayName="My Mod"
+displayName="Fields Of Memory"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Robert Angel, MCreator"
+authors="Robert Angel"
 
-[[dependencies.my_mod]]
+[[dependencies.fields_of_memory]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.19.2]"

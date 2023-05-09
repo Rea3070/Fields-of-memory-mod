@@ -1,0 +1,310 @@
+{
+  "mod_elements": [
+    {
+      "name": "TheFields",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_fields",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/fields_of_memory/models/item/the_fields.json",
+          "src/main/java/net/mcreator/fieldsofmemory/item/TheFieldsItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FiledsOfMemory",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fileds_of_memory",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Closer",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "closer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/fields_of_memory/models/item/closer.json",
+          "src/main/java/net/mcreator/fieldsofmemory/item/CloserItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TheyDontFear",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "they_dont_fear",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/fields_of_memory/models/item/they_dont_fear.json",
+          "src/main/java/net/mcreator/fieldsofmemory/item/TheyDontFearItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pslam",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pslam",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/fieldsofmemory/item/PslamItem.java",
+          "src/main/resources/assets/fields_of_memory/models/item/pslam.json"
+        ]
+      }
+    },
+    {
+      "name": "Personaldoom",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "personaldoom",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/fieldsofmemory/item/PersonaldoomItem.java",
+          "src/main/resources/assets/fields_of_memory/models/item/personaldoom.json"
+        ]
+      }
+    },
+    {
+      "name": "Findyou",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "findyou",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/fieldsofmemory/item/FindyouItem.java",
+          "src/main/resources/assets/fields_of_memory/models/item/findyou.json"
+        ]
+      }
+    },
+    {
+      "name": "Confess",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "confess",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/fieldsofmemory/item/ConfessItem.java",
+          "src/main/resources/assets/fields_of_memory/models/item/confess.json"
+        ]
+      }
+    },
+    {
+      "name": "Whatwevebecome",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whatwevebecome",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/fields_of_memory/models/item/whatwevebecome.json",
+          "src/main/java/net/mcreator/fieldsofmemory/item/WhatwevebecomeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Imscared",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "imscared",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/fieldsofmemory/item/ImscaredItem.java",
+          "src/main/resources/assets/fields_of_memory/models/item/imscared.json"
+        ]
+      }
+    },
+    {
+      "name": "Fieldsofmemeory",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fieldsofmemeory",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/fields_of_memory/models/block/fieldsofmemeory_side.json",
+          "src/main/java/net/mcreator/fieldsofmemory/block/FieldsofmemeoryBlock.java",
+          "src/main/resources/assets/fields_of_memory/models/block/fieldsofmemeory_noside.json",
+          "src/main/resources/assets/fields_of_memory/blockstates/fieldsofmemeory.json",
+          "src/main/resources/assets/fields_of_memory/models/block/fieldsofmemeory_noside_alt.json",
+          "src/main/resources/assets/fields_of_memory/models/block/fieldsofmemeory_post.json",
+          "src/main/resources/assets/fields_of_memory/models/item/fieldsofmemeory.json",
+          "src/main/resources/assets/fields_of_memory/models/block/fieldsofmemeory_side_alt.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "closer",
+      "files": [
+        "03robertangelcloser"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "thefields",
+      "files": [
+        "thefields"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "theydontfear",
+      "files": [
+        "06robertangeltheydontfear"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "paslm",
+      "files": [
+        "04robertangelpsalm"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "personaldoom",
+      "files": [
+        "09robertangelpersonaldoom"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "findyou",
+      "files": [
+        "07robertangelfindyou"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "imscared",
+      "files": [
+        "10robertangelimscared"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "confess",
+      "files": [
+        "11robertangelconfess"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "whatwevebecome",
+      "files": [
+        "12robertangelwhatwevebecome"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.fields_of_memory.the_fields.desc": "Robert Angel - The Fields",
+      "item.fields_of_memory.they_dont_fear": "Music Disc",
+      "item.my_mod.personaldoom": "Music Disc",
+      "subtitles.thefieldssong": "",
+      "item.fields_of_memory.pslam.desc": "Robert Angel - psalm",
+      "item.fields_of_memory.whatwevebecome.desc": "Robert Angel - What We\u0027ve Become",
+      "item.my_mod.pslam": "Music Disc",
+      "item.fields_of_memory.the_fields": "Music Disc",
+      "item.fields_of_memory.imscared": "Music Disc",
+      "itemGroup.tabfileds_of_memory": "Fileds Of Memory",
+      "item.my_mod.the_fields": "Music Disc",
+      "item.my_mod.closer.desc": "Robert Angel - Closer",
+      "subtitles.theydontfear": "",
+      "item.fields_of_memory.they_dont_fear.desc": "Robert Angel - They Don\u0027t Fear",
+      "item.my_mod.closer": "Music Disc",
+      "subtitles.thefieldsofmemory": "",
+      "item.fields_of_memory.imscared.desc": " Robert Angel - I\u0027m Scared",
+      "item.my_mod.they_dont_fear": "Music Disc",
+      "item.fields_of_memory.findyou": "Music Disc",
+      "item.fields_of_memory.findyou.desc": "Robert Angel - Find You",
+      "subtitles.findyou": "",
+      "item.my_mod.confess.desc": "Robert Angel - confess",
+      "item.fields_of_memory.confess.desc": "Robert Angel - confess",
+      "item.my_mod.whatwevebecome": "Music Disc",
+      "subtitles.confess": "",
+      "subtitles.whatwevebecome": "",
+      "subtitles.closer": "",
+      "subtitles.personaldoom": "",
+      "item.fields_of_memory.pslam": "Music Disc",
+      "subtitles.imscared": "",
+      "block.my_mod.fieldsofmemeory": "Fieldsofmemeory",
+      "item.my_mod.personaldoom.desc": "Robert Angel - Personal Doom",
+      "item.fields_of_memory.whatwevebecome": "Music Disc",
+      "item.my_mod.imscared.desc": " Robert Angel - I\u0027m Scared",
+      "item.my_mod.the_fields.desc": "Robert Angel - The Fields",
+      "item.my_mod.they_dont_fear.desc": "Robert Angel - They Don\u0027t Fear",
+      "item.fields_of_memory.closer": "Music Disc",
+      "item.my_mod.imscared": "Music Disc",
+      "item.my_mod.findyou": "Music Disc",
+      "subtitles.thefields": "",
+      "item.fields_of_memory.closer.desc": "Robert Angel - Closer",
+      "item.my_mod.pslam.desc": "Robert Angel - psalm",
+      "block.fields_of_memory.fieldsofmemeory": "Fieldsofmemeory",
+      "item.my_mod.confess": "Music Disc",
+      "subtitles.paslm": "",
+      "item.my_mod.findyou.desc": "Robert Angel - Find You",
+      "item.fields_of_memory.personaldoom.desc": "Robert Angel - Personal Doom",
+      "item.fields_of_memory.confess": "Music Disc",
+      "item.fields_of_memory.personaldoom": "Music Disc",
+      "item.my_mod.whatwevebecome.desc": "Robert Angel - What We\u0027ve Become"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fields_of_memory",
+    "modName": "Fields Of Memory",
+    "version": "1.0.0",
+    "author": "Robert Angel",
+    "license": "Custom license",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.fieldsofmemory",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

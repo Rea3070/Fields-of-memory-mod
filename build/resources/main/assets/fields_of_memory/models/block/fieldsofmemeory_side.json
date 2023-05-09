@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "fields_of_memory:blocks/fieldsofmemeory",
+    "pane": "fields_of_memory:blocks/fieldsofmemeory"
+  },
+  "render_type": "translucent"
+}

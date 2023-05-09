@@ -1,0 +1,83 @@
+{
+  "closer": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:03robertangelcloser",
+        "stream": true
+      }
+    ]
+  },
+  "thefields": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:thefields",
+        "stream": true
+      }
+    ]
+  },
+  "theydontfear": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:06robertangeltheydontfear",
+        "stream": true
+      }
+    ]
+  },
+  "paslm": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:04robertangelpsalm",
+        "stream": true
+      }
+    ]
+  },
+  "personaldoom": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:09robertangelpersonaldoom",
+        "stream": true
+      }
+    ]
+  },
+  "findyou": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:07robertangelfindyou",
+        "stream": true
+      }
+    ]
+  },
+  "imscared": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:10robertangelimscared",
+        "stream": true
+      }
+    ]
+  },
+  "confess": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:11robertangelconfess",
+        "stream": true
+      }
+    ]
+  },
+  "whatwevebecome": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "fields_of_memory:12robertangelwhatwevebecome",
+        "stream": true
+      }
+    ]
+  }
+}
