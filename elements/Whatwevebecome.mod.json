@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "what_weve_become",
+    "description": "Robert Angel - What We've Become",
+    "creativeTab": {
+      "value": "CUSTOM:FiledsOfMemory"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:whatwevebecome"
+    },
+    "lengthInTicks": 4880,
+    "analogOutput": 15
+  }
+}

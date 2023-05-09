@@ -29,8 +29,10 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.mymod.init.MyModModTabs;
 import net.mcreator.mymod.init.MyModModSounds;
 import net.mcreator.mymod.init.MyModModItems;
+import net.mcreator.mymod.init.MyModModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -48,10 +50,10 @@ public class MyModMod {
 
 	public MyModMod() {
 		MinecraftForge.EVENT_BUS.register(this);
-
+		MyModModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MyModModSounds.REGISTRY.register(bus);
-
+		MyModModBlocks.REGISTRY.register(bus);
 		MyModModItems.REGISTRY.register(bus);
 
 	}

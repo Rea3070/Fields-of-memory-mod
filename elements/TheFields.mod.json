@@ -2,18 +2,16 @@
   "_fv": 39,
   "_type": "musicdisc",
   "definition": {
-    "name": "The Fields",
+    "name": "Music Disc",
     "texture": "thefields",
     "description": "Robert Angel - The Fields",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:FiledsOfMemory"
     },
-    "specialInfo": [
-      "Fields Of Memory"
-    ],
+    "specialInfo": [],
     "hasGlow": true,
     "music": {
-      "value": "CUSTOM:thefieldssong"
+      "value": "CUSTOM:thefields"
     },
     "lengthInTicks": 4160,
     "analogOutput": 15

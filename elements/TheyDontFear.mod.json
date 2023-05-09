@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "they_dont_fear",
+    "description": "Robert Angel - They Don't Fear",
+    "creativeTab": {
+      "value": "CUSTOM:FiledsOfMemory"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:theydontfear"
+    },
+    "lengthInTicks": 6720,
+    "analogOutput": 0
+  }
+}

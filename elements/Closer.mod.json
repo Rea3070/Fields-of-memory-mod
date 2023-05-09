@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "closer",
+    "description": "Robert Angel - Closer",
+    "creativeTab": {
+      "value": "CUSTOM:FiledsOfMemory"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:closer"
+    },
+    "lengthInTicks": 5000,
+    "analogOutput": 2
+  }
+}

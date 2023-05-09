@@ -1,0 +1,79 @@
+{
+  "mod_elements": [
+    {
+      "name": "TheFields",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_fields",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/TheFieldsItem.java",
+          "src/main/resources/assets/my_mod/models/item/the_fields.json"
+        ]
+      }
+    },
+    {
+      "name": "FiledsOfMemory",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fileds_of_memory",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "closer",
+      "files": [
+        "03robertangelcloser"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "thefields",
+      "files": [
+        "thefields"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.thefields": "",
+      "subtitles.closer": "",
+      "itemGroup.tabfileds_of_memory": "Fileds Of Memory",
+      "item.my_mod.the_fields": "The Fields",
+      "subtitles.thefieldssong": "",
+      "item.my_mod.the_fields.desc": "Robert Angel - The Fields"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "my_mod",
+    "modName": "My Mod",
+    "version": "1.0.0",
+    "author": "Robert Angel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

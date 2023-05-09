@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "im_scared",
+    "description": " Robert Angel - I'm Scared",
+    "creativeTab": {
+      "value": "CUSTOM:FiledsOfMemory"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:imscared"
+    },
+    "lengthInTicks": 5760,
+    "analogOutput": 7
+  }
+}

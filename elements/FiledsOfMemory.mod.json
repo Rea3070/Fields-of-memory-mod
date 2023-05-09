@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Fileds Of Memory",
+    "icon": {
+      "value": "CUSTOM:Fieldsofmemeory"
+    },
+    "showSearch": true
+  }
+}

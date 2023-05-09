@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "paslm",
+    "description": "Robert Angel - psalm",
+    "creativeTab": {
+      "value": "CUSTOM:FiledsOfMemory"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:paslm"
+    },
+    "lengthInTicks": 2840,
+    "analogOutput": 3
+  }
+}

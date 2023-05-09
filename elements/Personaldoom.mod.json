@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "personal_doom",
+    "description": "Robert Angel - Personal Doom",
+    "creativeTab": {
+      "value": "CUSTOM:FiledsOfMemory"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:personaldoom"
+    },
+    "lengthInTicks": 3840,
+    "analogOutput": 6
+  }
+}

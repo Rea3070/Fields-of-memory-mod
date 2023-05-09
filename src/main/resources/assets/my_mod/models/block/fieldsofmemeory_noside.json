@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "pane": "my_mod:blocks/fieldsofmemeory"
+  },
+  "render_type": "translucent"
+}

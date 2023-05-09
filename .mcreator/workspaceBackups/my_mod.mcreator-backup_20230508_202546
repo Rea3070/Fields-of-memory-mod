@@ -1,0 +1,111 @@
+{
+  "mod_elements": [
+    {
+      "name": "TheFields",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_fields",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/TheFieldsItem.java",
+          "src/main/resources/assets/my_mod/models/item/the_fields.json"
+        ]
+      }
+    },
+    {
+      "name": "FiledsOfMemory",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fileds_of_memory",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Closer",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "closer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mymod/item/CloserItem.java",
+          "src/main/resources/assets/my_mod/models/item/closer.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "closer",
+      "files": [
+        "03robertangelcloser"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "thefields",
+      "files": [
+        "thefields"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "thefieldsofmemory",
+      "files": [
+        "12robertangelwhatwevebecome",
+        "11robertangelconfess",
+        "10robertangelimscared",
+        "09robertangelpersonaldoom",
+        "07robertangelfindyou",
+        "06robertangeltheydontfear",
+        "04robertangelpsalm"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.thefields": "",
+      "subtitles.closer": "",
+      "item.my_mod.closer": "Closer",
+      "subtitles.thefieldsofmemory": "",
+      "itemGroup.tabfileds_of_memory": "Fileds Of Memory",
+      "item.my_mod.the_fields": "The Fields",
+      "subtitles.thefieldssong": "",
+      "item.my_mod.the_fields.desc": "By Robert Angel",
+      "item.my_mod.closer.desc": "By Robert Angel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "my_mod",
+    "modName": "My Mod",
+    "version": "1.0.0",
+    "author": "Robert Angel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
